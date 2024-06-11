@@ -6,7 +6,7 @@ API REST para Gestión de Carreras y Materias:
 Este proyecto consiste en una API RESTful desarrollada con Express.js que permite gestionar carreras y materias en una universidad. La API proporciona operaciones CRUD (Crear, Leer, Actualizar, Borrar) para las carreras y materias, permitiendo a los usuarios realizar acciones como crear nuevas carreras, obtener información detallada de una carrera específica, eliminar una materia existente, etc.
 
 Endpoints de la API
-Carreras
+Carreras  
 GET /carreras - Obtener todas las carreras
 Respuesta: 200 OK con un array de carreras
 GET /carreras/:id - Obtener una carrera por su ID
